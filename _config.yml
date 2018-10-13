@@ -101,11 +101,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Edward J. Yoon"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Father, Member of Apache Software Foundation."
+  location         : "Seoul"
+  email            : edwardyoon@apache.org
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
